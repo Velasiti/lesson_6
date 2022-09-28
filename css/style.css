@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.first-container{
+    font-family: "Lato";
+    max-width: 810px;
+    margin: 0 auto;
+    margin-top: 12px;
+}
+.title{
+    font-weight: 900;
+    color: #1E212C;
+    font-size: 46px;
+    line-height: 59.8px;
+    margin-bottom: 92px;
+}
+.image{
+    max-width: 100%;
+    border-radius: 4px;
+    margin-bottom: 60px;
+}
+.text{
+font-size: 20px;
+font-weight: 700;
+color: #1E212C;
+font-size: 20px;
+line-height: 30px;
+margin-bottom: 24px;
+}
+.little-text{
+    font-size: 16px;
+    line-height: 25.6px;
+    color: #424551;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+.paragraph-first{
+    margin-bottom: 25px;
+}
+.paragraph-second{
+    margin-bottom: 48px;
+}
+.text-second{
+    font-size: 20px;
+    font-weight: 700;
+    color: #1E212C;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 58px;
+}
+.mini-text{
+    margin-bottom: 24px;
+}
+.list{
+    padding-left: 32px;
+    margin-bottom: 24px;
+}
+
+.second-container{
+    font-family: "Lato";
+    font-size: 20px;
+    line-height: 20px;
+}
+.lorem{
+    padding: 10px;
+    max-height: 50px;
+    overflow: auto;
+    background-color: orange;
+    margin-bottom: 20px;
+    
+}
+.ipsum{
+    max-height: 50px;
+    overflow: hidden;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    
+}
+.link{
+    background-color: red;
+    display: inline-block;
+    margin-bottom: 20px;
+    
+}
+.section{
+    background-color: aqua;
+    border: 10px double salmon;
+    border-bottom: none;
+    border-top: 10px solid #000;
+    border-left: 10px dotted blue;
+    max-width: 700px;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto; 
+    opacity: 0.6;
+}
+.dolor{
+    background-color: orchid;
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 10px 10px 20px 10px greenyellow, inset 10px 10px 20px 10px blueviolet;
+}
+
